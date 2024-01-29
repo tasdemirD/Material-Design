@@ -49,10 +49,11 @@ const styles = StyleSheet.create({
         justifyContent: 'center'
     },
     input_field: {
-        backgroundColor: '#fcfcfc',
+        backgroundColor: 'lightblue',
         margin: (16, 8, 0, 8)
     },
     button: {
+        backgroundColor: 'blue',
         margin: (16, 8, 0, 8)
     }
 });
