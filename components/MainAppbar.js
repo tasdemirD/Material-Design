@@ -14,7 +14,4 @@ const styles = StyleSheet.create({
     header: {
         backgroundColor: 'lightblue'
     },
-    headerText: {
-        color: 'white'
-    }
 });
